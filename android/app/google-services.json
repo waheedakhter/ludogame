@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175073838064",
+    "firebase_url": "https://ludo-classic-e2fa6.firebaseio.com",
+    "project_id": "ludo-classic-e2fa6",
+    "storage_bucket": "ludo-classic-e2fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175073838064:android:042fe35523125dc77b9335",
+        "android_client_info": {
+          "package_name": "com.therightapps.ludo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175073838064-arm39r15nbk6v8o1rv2g5f5nrkis3118.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgPkOIFsan_fjRfN4_DriiJ5XDCkRzw3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175073838064-arm39r15nbk6v8o1rv2g5f5nrkis3118.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
